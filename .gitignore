@@ -1,0 +1,6 @@
+.*
+.*.sw?
+!.gitignore
+sdk/sdk.tar.bz2
+# helloworld/
+tmp/
